@@ -9,3 +9,6 @@ I am Full-stack developer building impactful web solutions for a seamless user e
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akshayw1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshayw1&bg_color=0d1116&color=707070&line=02c54d&point=c4c4c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
