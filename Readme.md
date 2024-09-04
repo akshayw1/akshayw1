@@ -1,4 +1,4 @@
-# 💫Hey this is Akshay Waghmare!
+# 💫Hii I'm  Akshay Waghmare!
 I am Full-stack developer building impactful web solutions for a seamless user experience.
 
 # 💻Tech Stack
