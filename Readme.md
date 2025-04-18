@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Akshay Waghmare!
 
 I'm a passionate full-stack developer  in tech driven by a desire to build impactful solutions that solve real-world problems.
-As a developer, I specialize in creating robust web and mobile applications with seamless user experiences. I'm particularly interested in developing innovative product solutions!
+As a developer, I'm particularly interested in developing innovative product solutions!
 
 
 I thrive on technical challenges and am constantly expanding my knowledge across various technologies and frameworks to build more efficient, scalable, and user-friendly applications.
