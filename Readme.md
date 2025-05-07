@@ -1,15 +1,23 @@
-# 👋 Hi there, I'm Akshay Waghmare!
+# 👋 Heyy, I'm Akshay Waghmare!
 
-I'm a passionate full-stack developer  in tech driven by a desire to build impactful solutions that solve real-world problems.
-As a developer, I'm particularly interested in developing innovative product solutions!
+I’m a passionate Software Developer excited about building cloud-scalable systems and microservices that tackle real-world challenges. Continuously learning and contributing to the open-source community, I thrive on creating innovative solutions.
 
 
-I thrive on technical challenges and am constantly expanding my knowledge across various technologies and frameworks to build more efficient, scalable, and user-friendly applications.
-<p align="center">
-  <a href="https://github.com/akshayw1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayw1&theme=radical" alt="Akshay's GitHub Contribution"/>
-  </a>
-</p>
+<br> 
+
+ 
+<table>
+<tr>
+<td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=akshayw1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="500"/>
+<td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=akshayw1&theme=react&border=61DAFB&fire=DDB80F"/></a>
+</table>
+ 
+<table>
+<tr>
+</a>
+</table>
+
+
 
 ## 💻 Tech Stack
 
@@ -59,12 +67,6 @@ I thrive on technical challenges and am constantly expanding my knowledge across
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayw1&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayw1&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
